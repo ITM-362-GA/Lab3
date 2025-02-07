@@ -225,7 +225,17 @@ form {
   box-sizing: border-box;
 }
 
-
+/* Styles for the heading */
+h1 {
+  font-size: 2.25rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #E0E0E0;
+  font-weight: 600;
+  word-wrap: break-word;
+  white-space: normal;
+  line-height: 1.5;
+}
 
 
 
