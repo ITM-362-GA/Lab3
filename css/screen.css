@@ -207,6 +207,30 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+/* Styles for my html and body */
+html,
+body {
+  background-color: #D3D3D3;
+  font-family: 'Open Sans', 'Arial', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* ===== STATE STYLES ======= */
 
