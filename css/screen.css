@@ -255,3 +255,18 @@ label {
 }
 
 /* ===== STATE STYLES ======= */
+
+/* The input fields */
+input[type="email"],
+input[type="checkbox"],
+input[type="submit"] {
+  width: 100%;
+  padding: 1.2rem;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  background-color: #555555;
+  border: none;
+  border-radius: 10px;
+  box-sizing: border-box;
+  transition: background-color 0.3s ease;
+}
