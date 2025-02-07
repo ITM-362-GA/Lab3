@@ -287,3 +287,10 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #777777;
 }
+
+/* Styling for the checkbox */
+input[type="checkbox"] {
+  width: auto;
+  margin-right: 1rem;
+  background-color: transparent;
+}
