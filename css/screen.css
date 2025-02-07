@@ -294,3 +294,23 @@ input[type="checkbox"] {
   margin-right: 1rem;
   background-color: transparent;
 }
+
+/* Media quuery for mobiles. */
+@media (min-width: 600px) {
+  form {
+    padding: 2rem 1.5rem;
+  }
+
+  input[type="email"],
+  input[type="checkbox"],
+  input[type="submit"] {
+    padding: 1rem;
+  }
+}
+
+/* Accessibility & Interaction */
+input[type="email"]:hover,
+input[type="submit"]:hover {
+  background-color: #777777;
+  transition: background-color 0.3s ease;
+}
