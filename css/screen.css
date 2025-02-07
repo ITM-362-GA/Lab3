@@ -270,3 +270,20 @@ input[type="submit"] {
   box-sizing: border-box;
   transition: background-color 0.3s ease;
 }
+
+input[type="email"]:focus,
+input[type="checkbox"]:focus {
+  outline: none;
+  background-color: #666666;
+}
+
+input[type="submit"] {
+  background-color: #666666;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #777777;
+}
