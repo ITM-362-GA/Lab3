@@ -245,17 +245,13 @@ p {
   color: #B3B3B3;
 }
 
-
-
-
-
-
-
-
-
-
-
-
+/* Style for the labels */
+label {
+  display: block;
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+  color: #999999;
+  font-weight: 500;
+}
 
 /* ===== STATE STYLES ======= */
-
