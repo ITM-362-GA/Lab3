@@ -237,7 +237,13 @@ h1 {
   line-height: 1.5;
 }
 
-
+/* Style for the paragraph */
+p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #B3B3B3;
+}
 
 
 
